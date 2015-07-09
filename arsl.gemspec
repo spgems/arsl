@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "arsl"
   spec.version       = Arsl::VERSION
   spec.authors       = ["Saurabh Pandit"]
-  spec.email         = ["Saurabh_Pandit@external.mckinsey.com"]
+  spec.email         = ["saurabh201189@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Gem to create Add & Remove type of multi-select list.}
+  spec.description   = %q{This will convert the multi-select list to Add & Remove type of select list.}
+  spec.homepage      = "https://github.com/spgems/arsl"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
