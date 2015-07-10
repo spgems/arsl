@@ -6,8 +6,8 @@ require 'arsl/version'
 Gem::Specification.new do |spec|
   spec.name          = "arsl"
   spec.version       = Arsl::VERSION
-  spec.authors       = ["Saurabh Pandit"]
-  spec.email         = ["saurabh201189@gmail.com"]
+  spec.authors       = ["Saurabh Pandit","Tushar Maroo"]
+  spec.email         = ["saurabh201189@gmail.com", "tusharmaroo@gmail.com"]
 
   spec.summary       = %q{Gem to create Add & Remove type of multi-select list.}
   spec.description   = %q{This will convert the multi-select list to Add & Remove type of select list.}
